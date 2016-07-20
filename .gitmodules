@@ -1,0 +1,6 @@
+[submodule "upstream branch"]
+	path = upstream branch
+	url = upstream branch
+[submodule "global"]
+	path = global
+	url = https://github.com/volkanguzel/global.git
